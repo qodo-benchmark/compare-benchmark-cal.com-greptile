@@ -1,0 +1,2 @@
+[config]
+ignore_repositories = ["qodo-benchmark/compare-benchmark-cal.com-coderabbit"]

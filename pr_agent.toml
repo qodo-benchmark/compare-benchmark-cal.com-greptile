@@ -1,3 +1,2 @@
 [config]
-ignore_repositories = ["qodo-benchmark/compare-benchmark-cal.com-greptile
-"]
+ignore_repositories = ["qodo-benchmark/compare-benchmark-cal.com-greptile"]
